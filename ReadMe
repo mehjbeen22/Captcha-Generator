@@ -1,1 +1,32 @@
+# Random Captcha Generator
+
+The Random Captcha Generator is a simple web application built using HTML, CSS, and JavaScript that provides random captcha challenges for user verification. This project offers an easy-to-use way of integrating captcha functionality into web forms, enhancing security and preventing automated bots from submitting forms.
+
+## Features
+
+- Random Captcha: Generates unique and random captcha challenges for each user interaction.
+- Refresh Option: Allows users to request a new captcha challenge if the current one is difficult to read.
+- Verification: Users enter the characters they see in the captcha to prove their human identity.
+- Basic UI: The application has a minimalistic user interface for a clean user experience.
+
+## Usage
+
+1. Clone the repository to your local machine:
+2. Navigate to the project directory:
+3. Open the `index.html` file in a web browser to access the Random Captcha Generator application.
+
+## Contributing
+
+Contributions are welcome! If you have any improvements, bug fixes, or new features to add, feel free to submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+The Random Captcha Generator project was created with the intention of providing a simple and effective solution for implementing captcha challenges in web forms to enhance security and user verification.
+
+
+
 
